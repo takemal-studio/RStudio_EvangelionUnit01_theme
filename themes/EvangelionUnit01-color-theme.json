@@ -60,7 +60,7 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{
