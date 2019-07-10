@@ -29,7 +29,7 @@
 			"scope": "comment",
 			"settings": {
 				"foreground": "#ec0000",
-				"fontStyle": " italic   "
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -139,7 +139,7 @@
 			"name": "Variable other",
 			"scope": "variable.other",
 			"settings": {
-				"foreground": "#57FF57",
+				"foreground": "#effcef",
 				"fontStyle": "italic"
 			}
 		},
