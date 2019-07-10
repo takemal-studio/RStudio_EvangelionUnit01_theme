@@ -320,14 +320,14 @@
 			"name": "string.quoted.double",
 			"scope": "string.quoted.double",
 			"settings": {
-				"foreground": "#FFCC7B"
+				"foreground": "#FFEB35"
 			}
 		},
 		{
 			"name": "string quoted single",
 			"scope": "string.quoted.single",
 			"settings": {
-				"foreground": "#FFCC7B"
+				"foreground": "#FFEB35"
 			}
 		}
 	]
