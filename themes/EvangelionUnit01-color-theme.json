@@ -152,7 +152,7 @@
 			}
 		},
 		{
-			"name": "",
+			"name": "Entity.name.selector",
 			"scope": "entity.name.selector",
 			"settings": {
 				"foreground": "#FF0000",
@@ -179,7 +179,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#af92ff"
+				"foreground": "#57FF57"
 			}
 		},
 		{
@@ -216,6 +216,17 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"foreground": "#F8F8F0"
+			}
+		},
+		{
+			"name": "terminator",
+			"scope": [
+				"punctuation.separator",
+				"punctuation.terminator"
+			],
+			"settings": {
+				"foreground": "#FF0000",
+				"fontStyle": "bold"
 			}
 		},
 		{
