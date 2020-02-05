@@ -1,10 +1,15 @@
 # README
-## This is the README for your extension "evaunit01"
 
-# Ideal #
+## This is the README for EvangelionUnit01-colour-theme
 
-![EvaUnit01.png](https://github.com/takemal-studio/EvangelionUnit01-colour-theme/blob/master/Evaunit01.jfif)
+### Ideal
 
+![EvaUnit01.png](https://github.com/takemal-studio/EvangelionUnit01-colour-theme/blob/master/pic/EvaUnit01.bmp)
 
-# and reality...(rstudio)
-![sampe_code](https://github.com/takemal-studio/EvangelionUnit01-colour-theme/blob/master/EvaUnit01.png)
+----
+
+### and reality...(rstudio)
+
+![sampe_code](https://github.com/takemal-studio/EvangelionUnit01-colour-theme/blob/master/pic/EvaUnit01_sample.png)
+
+----
