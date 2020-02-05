@@ -4,7 +4,7 @@
 
 ### Ideal
 
-![EvaUnit01.png](https://github.com/takemal-studio/EvangelionUnit01-colour-theme/blob/master/pic/EvaUnit01.bmp)
+![EvaUnit01.bmp](https://github.com/takemal-studio/EvangelionUnit01-colour-theme/blob/master/pic/Evaunit01.bmp)
 
 ----
 
