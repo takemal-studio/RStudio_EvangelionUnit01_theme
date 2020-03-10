@@ -33,7 +33,7 @@ RStudio 1.2.x or higher
 - To download and apply the theme, run the following code in RStudio.
 
 ```R
-rstudioapi::addTheme("https://raw.githubusercontent.com/takemal-studio/RStudio_Evangelion_Unit01_theme/master/EvangelionUnit01.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/takemal-studio/RStudio_EvangelionUnit01_theme/master/EvangelionUnit01.rstheme", apply = TRUE)
 
 # To install, but not apply the theme, just switch the apply argument to FALSE.
 ```
